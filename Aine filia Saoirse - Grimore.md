@@ -57,6 +57,24 @@ Caster flics their finger and covers an individual in highly flamable oil. If it
 
 ## Creo Corpus
 
+**Don't Bleed on my Nice Suit**  
+CrCo lvl 10
+**R:** Touch, **D:** Sun, **T:** Ind  
+Bind and support the wounds. Activity wont worsen the injury. Character still suffers wound penalty and cannot heal while under the effect of the spell.  
+*(Base 3, Touch +1, Sun +2)*
+
+**Gesundheit!**  
+CrCo lvl 15  
+**R:** Touch, **D:** Moon, **T:** Ind  
+The target gains a +6 bonus to Recovery rolls to recover from injuries or diseases, as long as he has been under the influence of this spell for the whole of the recovery interval. The recovery interval is counted from the time that the spell is cast; any previous time is ignored.  
+*(Base 3, +1 Touch, +3 Moon)*
+
+**The Healing leaves litte time for the Hurting**  
+CrCo lvl 20  
+**R:** Touch, **D:** Mom, **T:** Ind. Ritual  
+This spell heals a single Light Wound suffered by the person touched. This spell does not heal damage from poison or disease.  
+(Base 15, +1 Touch)  
+
 ## Intellego Corpus
 
 ## Muto Corpus
@@ -101,6 +119,13 @@ A brilliant red flash explodes in the air where you designate. If you target a p
 **Mastery:** Multi, Obfuscated  
 *(Base 5, Voice +2)*
 
+**This Girl is on Fire**  
+CrIg lvl 15 (Req: Rego) 
+**R:** Personal, **D:** Dia, **T:** Ind  
+You become wreathed entirely in flames, held a fraction away from your body and clothes and causing no personal harm. Anyone who attempts to touch you or strike you with a weapon of sword-length or shorter takes +5 damage, as they scorch or burn their hand/arm. The fire is hot enough to ignite flammable materials, such as dry wood or charcoal.  
+**Mastery:** Fast Cast  
+*(Base 5, +1 diameter, +1 Rego requisite to not harm caster)*  
+
 **Like Zeus, but Hotter**  
 CrIg 20  
 **R:** Voice, **D:** Mom, **T:** Ind  
@@ -108,18 +133,30 @@ A 2-foot, thick, spear-shaped jet of fire flies from your palms, doing +15 damag
 **Mastery:** Multi  
 *(Base 10, Voice +2)*
 
-**Name**  
-TeFo lvl  
-**R:** Touch, **D:** Mom, **T:** Ind  
-Description  
-**Mastery:** 
-*(Base x, mag description)*
+**Dragon's Roar**  
+CrIg lvl 20 
+**R:** Voice, **D:** Con, **T:** Ind  
+A thin jet of flame pours from the caster’s mouth inflicting +10 damage to anything it touches within range. The caster can move their head to re-target the jet for as long as they concentrate.   
+*(Base 5, Voice +2, Con +1)*  
 
 ## Intellego Ignem
 
 ## Muto Ignem
 
+**Ten Million Fireflies**  
+MuIg lvl 15  
+**R:** Sight, **D:** Dia, **T:** Ind  
+Turns a fire into a swarm of fireballs, each the size of a large insect, that fly and harass at your command. Their burning touch gives all
+those you indicate within 7 paces of the fire both a –3 penalty on all rolls and two extra botch dice, but they do not cause actual damage.  
+*(Base 2, Sight +3, Dia +1, Rego req +1)*  
+
 ## Perdo Ignem
+
+**Cloak of Shadow**  
+PeIg lvl 3  
+**R:** Personal, **D:** Dia, **T:** Ind  
+The caster is enveloped in shadows making it somewhat more difficult to clearly distinguish details of the caster by sight.  
+*(Base 3)*  
 
 **Jackfrost says fuck you particularly**  
 PeIg 10  
@@ -127,6 +164,12 @@ PeIg 10
 Causes the target to feel a chill and lose body heat. The target loses a Fatigue level.  
 **Mastery:** Multi  
 *(Base 4, Voice +2)*
+
+**Enough**  
+PeIg lvl 15  
+**R:** Voice, **D:** Mom, **T:** Ind  
+Extinguish a fire, cooling the ashes to merely warm.  
+*(Base 4, Voice +2, Size +1)*
 
 **The Cold Never Bothered Me Anyway**  
 PeIg 25  
@@ -148,6 +191,12 @@ Cools the air within ten paces of the target, leaving it slightly below freezing
 ## Perdo Imaginem
 
 ## Rego Imaginem
+
+**Heh you cant find me**  
+TeFo lvl 10 
+**R:** Touch, **D:** Mom, **T:** Ind  
+Your image appears up to 1 pace from where you actually are, so attacks aimed there are likely to miss you. Whenever the image is successfully struck, it disappears and reappears in another spot. In combat, early attacks are aimed at the image, and so automatically miss you. Once the image has been hit once, you have a +9 bonus to Defense, as attackers must try to find you in a fairly large area.  
+*(Base 2, +2 Sun, +1 changing image, +1 moved image matches changes)*  
 
 # Mentem
 
@@ -182,6 +231,18 @@ Cools the air within ten paces of the target, leaving it slightly below freezing
 ## Muto Vim
 
 ## Perdo Vim
+
+**Demons Eternal Oblivion (20)**  
+PeVi lvl 20 
+**R:** Voice, **D:** Mom, **T:** Ind  
+Weakens and possibly destroys a demon. If the spell penetrates the demon’s Magic Resistance, the demon loses Might Score equal to the spell lvl = 20.  
+**Mastery:** Penetration x2.
+*(Base effect, Voice +2)*
+
+DEMON’S ETERNAL OBLIVION
+R: Voice, D: Mom, T: Ind
+
+(Base effect, +2 Voice)  
 
 ## Rego Vim
 
