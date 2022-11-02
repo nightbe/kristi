@@ -28,7 +28,7 @@ Mastery:
 CrAq 10  
 **R:** Voice, **D:** Dia, **T:** Ind  
 Caster flics their finger and covers an individual in highly flamable oil. If it gets ignited it does +12 damage the first round, +6 damage the second round, +0 damage the third round. 
-- Mastery: Multi
+Mastery: Multi
 *(Base 3, +2 voice)*
 
 
@@ -131,7 +131,7 @@ Mastery: Multi
 PeIg 25  
 **R:** Voice, **D:** Mom, **T:** Part  
 Cools the air within ten paces of the target, leaving it slightly below freezing. All nonliving things are chilled thoroughly, not just on the surface. All living things (except you, if youcast with a Rego requisite) lose one Fatigue level. House fires become as small as campfires, bonfires become as small as torch fires, and campfires and smaller fires go out  
-Mastery: Resistance
+Mastery: Resistance 
 *(Base 4, voice +2, part +1, size +2)*
 
 ## Rego Ignem
