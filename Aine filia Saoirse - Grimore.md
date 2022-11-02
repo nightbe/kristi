@@ -28,8 +28,7 @@ Mastery:
 CrAq 10  
 **R:** Voice, **D:** Dia, **T:** Ind  
 Caster flics their finger and covers an individual in highly flamable oil. If it gets ignited it does +12 damage the first round, +6 damage the second round, +0 damage the third round. 
-
-Mastery: Multi
+- Mastery: Multi
 *(Base 3, +2 voice)*
 
 
