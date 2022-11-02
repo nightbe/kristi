@@ -271,13 +271,13 @@ Suppress a spell cast by another with level less than or equal to half the (leve
 **Mastery:** Fast cast  
 *(Base 3, Voice +2, con +1)*
 
-**Aegis of the Hearth**  
+**Aegis of the Hearth (20)**  
 ReVi lvl 20  
 **R:** Touch, **D:** Year, **T:** Bound. Ritual  
 This ritual protects a covenant in the way a Parma Magica protects a magus. Look it up. Lvl 20  
 *(Base effect, lvl 20)
 
-**Aegis of the Hearth**  
+**Aegis of the Hearth (30)**  
 ReVi lvl 30  
 **R:** Touch, **D:** Year, **T:** Bound. Ritual  
 This ritual protects a covenant in the way a Parma Magica protects a magus. Look it up. Lvl 30   
