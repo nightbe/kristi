@@ -259,7 +259,7 @@ Your image appears up to 1 pace from where you actually are, so attacks aimed th
 PeVi lvl 20 
 **R:** Voice, **D:** Mom, **T:** Ind  
 Weakens and possibly destroys a demon. If the spell penetrates the demon’s Magic Resistance, the demon loses Might Score equal to the spell lvl = 20.  
-**Mastery:** Penetration x2.
+**Mastery:** Penetration x2.  
 *(Base effect, Voice +2)* 
 
 ## Rego Vim
@@ -268,19 +268,19 @@ Weakens and possibly destroys a demon. If the spell penetrates the demon’s Mag
 ReVi lvl 10  
 **R:** Voice, **D:** Con, **T:** Ind  
 Suppress a spell cast by another with level less than or equal to half the (level + 5 magnitudes) of the Vim spell = lvl 20.      
-**Mastery:** Fast cast
+**Mastery:** Fast cast  
 *(Base 3, Voice +2, con +1)*
 
 **Aegis of the Hearth**  
 ReVi lvl 20  
 **R:** Touch, **D:** Year, **T:** Bound. Ritual  
-This ritual protects a covenant in the way a Parma Magica protects a magus. Look it up. Lvl 20 
+This ritual protects a covenant in the way a Parma Magica protects a magus. Look it up. Lvl 20  
 *(Base effect, lvl 20)
 
 **Aegis of the Hearth**  
 ReVi lvl 30  
 **R:** Touch, **D:** Year, **T:** Bound. Ritual  
-This ritual protects a covenant in the way a Parma Magica protects a magus. Look it up. Lvl 30 
+This ritual protects a covenant in the way a Parma Magica protects a magus. Look it up. Lvl 30   
 *(Base effect, lvl 30)*
 
 **Opening the Intangible Tunnel**  
@@ -289,7 +289,7 @@ ReVi lvl 30
 You can open a magical channel from yourself to some target, allowing you to cast any spell with a range greater than Personal on that target. The tunnel does not, of itself, grant any sense impressions of the target — you must cast appropriate spells through it if you wish to see. Spells cast through the tunnel cannot be of higher level than that of this spell. You must make standard Concentration rolls to maintain concentration on the Opening spell as you cast
 other spells. A magus who magically recognizes the tunnel (through The Invisible Eye Revealed or a similar spell) may cast spells through the tunnel
 back at you, and he need not concentrate on keeping the tunnel open. If this magus is the target of the spell, he is considered to be touching you. Otherwise, his effective range to you is his range to the target of the tunneling spell. If the target of the spell has Magic Resistance, you must penetrate that resistance to open the tunnel. Spells cast through the tunnel must also penetrate Magic Resistance normally.  
-Spells lvl 30 or less can be cast through.  
+Spells lvl 30 or less can be cast through.    
 *(Base effect, +4 Arc, +1 Conc)*
 
 
