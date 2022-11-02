@@ -2,13 +2,6 @@
 
 This is an hermetic grimoire to store Aines spells, there are section for every technique-form combination and spells are ordered by their level.
 
-**Name**  
-TeFo lvl  
-**R:** Touch, **D:** Mom, **T:** Ind  
-Description  
-**Mastery:** 
-*(Base x, mag description)*
-
 # Animal
 
 ## Creo Animal
@@ -151,6 +144,12 @@ CrIg lvl 20
 A thin jet of flame pours from the caster’s mouth inflicting +10 damage to anything it touches within range. The caster can move their head to re-target the jet for as long as they concentrate.   
 *(Base 5, Voice +2, Con +1)*  
 
+**Great Arc of Fiery Ribbons**  
+CrIg lvl 35  
+**R:** Sight, **D:** Mom, **T:** Group  
+A dozen multi-hued ribbons of flame leap from your hands and fly out as far as your vision carries, covering a 60-degree arc. All those in the arc take +15 damage.  
+*(Base 10, Sight +3, Group +2)*
+
 ## Intellego Ignem
 
 **Vision of Heatlight**  
@@ -265,6 +264,25 @@ Weakens and possibly destroys a demon. If the spell penetrates the demon’s Mag
 
 ## Rego Vim
 
+**Counterspell**  
+ReVi lvl 10  
+**R:** Voice, **D:** Con, **T:** Ind  
+Suppress a spell cast by another with level less than or equal to half the (level + 5 magnitudes) of the Vim spell = lvl 20.      
+**Mastery:** Fast cast
+*(Base 3, Voice +2, con +1)*
+
+**Aegis of the Hearth**  
+ReVi lvl 20  
+**R:** Touch, **D:** Year, **T:** Bound. Ritual  
+This ritual protects a covenant in the way a Parma Magica protects a magus. Look it up. Lvl 20 
+*(Base effect, lvl 20)
+
+**Aegis of the Hearth**  
+ReVi lvl 30  
+**R:** Touch, **D:** Year, **T:** Bound. Ritual  
+This ritual protects a covenant in the way a Parma Magica protects a magus. Look it up. Lvl 30 
+*(Base effect, lvl 30)*
+
 **Opening the Intangible Tunnel**  
 ReVi lvl 30  
 **R:** Arc, **D:** Con, **T:** Ind  
@@ -273,3 +291,11 @@ other spells. A magus who magically recognizes the tunnel (through The Invisible
 back at you, and he need not concentrate on keeping the tunnel open. If this magus is the target of the spell, he is considered to be touching you. Otherwise, his effective range to you is his range to the target of the tunneling spell. If the target of the spell has Magic Resistance, you must penetrate that resistance to open the tunnel. Spells cast through the tunnel must also penetrate Magic Resistance normally.  
 Spells lvl 30 or less can be cast through.  
 *(Base effect, +4 Arc, +1 Conc)*
+
+
+**Name**  
+TeFo lvl  
+**R:** Touch, **D:** Mom, **T:** Ind  
+Description  
+**Mastery:** 
+*(Base x, mag description)*
